@@ -1,0 +1,354 @@
+[
+  {
+    "playerId": 14681,
+    "nickname": "RandomPlayer#14681",
+    "progresses": [
+      {
+        "id": 468103,
+        "playerId": 14681,
+        "resourceId": 35867957,
+        "score": 3,
+        "maxScore": 850
+      },
+      {
+        "id": 468102,
+        "playerId": 14681,
+        "resourceId": 576756884,
+        "score": 2,
+        "maxScore": 900
+      },
+      {
+        "id": 468101,
+        "playerId": 14681,
+        "resourceId": 315464543,
+        "score": 1,
+        "maxScore": 1000
+      },
+      {
+        "id": 468100,
+        "playerId": 14681,
+        "resourceId": 645757568,
+        "score": 0,
+        "maxScore": 7000
+      }
+    ],
+    "currencies": [
+      {
+        "id": 46815,
+        "playerId": 14681,
+        "resourceId": 1012342342,
+        "name": "TICKET",
+        "count": 79
+      },
+      {
+        "id": 46811,
+        "playerId": 14681,
+        "resourceId": 1003546323,
+        "name": "GOLD",
+        "count": 27
+      },
+      {
+        "id": 46817,
+        "playerId": 14681,
+        "resourceId": 1000234125,
+        "name": "SANDAL",
+        "count": 153
+      },
+      {
+        "id": 46813,
+        "playerId": 14681,
+        "resourceId": 1024345341,
+        "name": "CRYSTAL",
+        "count": 41
+      }
+    ],
+    "items": [
+      {
+        "id": 936203,
+        "playerId": 14681,
+        "resourceId": 1068597761,
+        "count": 8,
+        "level": 89
+      },
+      {
+        "id": 936201,
+        "playerId": 14681,
+        "resourceId": 1230985215,
+        "count": 1,
+        "level": 36
+      },
+      {
+        "id": 936209,
+        "playerId": 14681,
+        "resourceId": 869657643,
+        "count": 125,
+        "level": 50
+      },
+      {
+        "id": 936205,
+        "playerId": 14681,
+        "resourceId": 956894673,
+        "count": 27,
+        "level": 16
+      },
+      {
+        "id": 936207,
+        "playerId": 14681,
+        "resourceId": 466778646,
+        "count": 64,
+        "level": 91
+      }
+    ]
+  },
+  {
+    "playerId": 11144,
+    "nickname": "RandomPlayer#11144",
+    "progresses": [
+      {
+        "id": 114402,
+        "playerId": 11144,
+        "resourceId": 1078979096,
+        "score": 2,
+        "maxScore": 500
+      },
+      {
+        "id": 114407,
+        "playerId": 11144,
+        "resourceId": 587687,
+        "score": 7,
+        "maxScore": 10000
+      },
+      {
+        "id": 114406,
+        "playerId": 11144,
+        "resourceId": 635745346,
+        "score": 6,
+        "maxScore": 150
+      },
+      {
+        "id": 114405,
+        "playerId": 11144,
+        "resourceId": 576756884,
+        "score": 5,
+        "maxScore": 900
+      },
+      {
+        "id": 114404,
+        "playerId": 11144,
+        "resourceId": 134534069,
+        "score": 4,
+        "maxScore": 500
+      },
+      {
+        "id": 114401,
+        "playerId": 11144,
+        "resourceId": 1113546327,
+        "score": 1,
+        "maxScore": 850
+      },
+      {
+        "id": 114403,
+        "playerId": 11144,
+        "resourceId": 75967895,
+        "score": 3,
+        "maxScore": 700
+      },
+      {
+        "id": 114400,
+        "playerId": 11144,
+        "resourceId": 315464543,
+        "score": 0,
+        "maxScore": 1000
+      }
+    ],
+    "currencies": [
+      {
+        "id": 11441,
+        "playerId": 11144,
+        "resourceId": 1000234125,
+        "name": "SANDAL",
+        "count": 27
+      },
+      {
+        "id": 11443,
+        "playerId": 11144,
+        "resourceId": 1012342342,
+        "name": "TICKET",
+        "count": 41
+      }
+    ],
+    "items": [
+      {
+        "id": 228809,
+        "playerId": 11144,
+        "resourceId": 1230985215,
+        "count": 125,
+        "level": 33
+      },
+      {
+        "id": 228811,
+        "playerId": 11144,
+        "resourceId": 956894673,
+        "count": 216,
+        "level": 56
+      },
+      {
+        "id": 228805,
+        "playerId": 11144,
+        "resourceId": 466778646,
+        "count": 27,
+        "level": 32
+      },
+      {
+        "id": 228807,
+        "playerId": 11144,
+        "resourceId": 469875784,
+        "count": 64,
+        "level": 65
+      },
+      {
+        "id": 228803,
+        "playerId": 11144,
+        "resourceId": 869657643,
+        "count": 8,
+        "level": 89
+      },
+      {
+        "id": 228801,
+        "playerId": 11144,
+        "resourceId": 1068597761,
+        "count": 1,
+        "level": 56
+      }
+    ]
+  },
+  {
+    "playerId": 16386,
+    "nickname": "RandomPlayer#16386",
+    "progresses": [
+      {
+        "id": 638603,
+        "playerId": 16386,
+        "resourceId": 3153461,
+        "score": 3,
+        "maxScore": 10
+      },
+      {
+        "id": 638607,
+        "playerId": 16386,
+        "resourceId": 1232342111,
+        "score": 7,
+        "maxScore": 10
+      },
+      {
+        "id": 638606,
+        "playerId": 16386,
+        "resourceId": 6786564,
+        "score": 6,
+        "maxScore": 5000
+      },
+      {
+        "id": 638609,
+        "playerId": 16386,
+        "resourceId": 86798676,
+        "score": 9,
+        "maxScore": 800
+      },
+      {
+        "id": 638608,
+        "playerId": 16386,
+        "resourceId": 645757568,
+        "score": 8,
+        "maxScore": 7000
+      },
+      {
+        "id": 638605,
+        "playerId": 16386,
+        "resourceId": 635745346,
+        "score": 5,
+        "maxScore": 150
+      },
+      {
+        "id": 638604,
+        "playerId": 16386,
+        "resourceId": 1875658756,
+        "score": 4,
+        "maxScore": 10000
+      },
+      {
+        "id": 638601,
+        "playerId": 16386,
+        "resourceId": 1230985215,
+        "score": 1,
+        "maxScore": 5000
+      },
+      {
+        "id": 638602,
+        "playerId": 16386,
+        "resourceId": 36457659,
+        "score": 2,
+        "maxScore": 1000
+      },
+      {
+        "id": 638600,
+        "playerId": 16386,
+        "resourceId": 1078979096,
+        "score": 0,
+        "maxScore": 500
+      }
+    ],
+    "currencies": [
+      {
+        "id": 63861,
+        "playerId": 16386,
+        "resourceId": 1003546323,
+        "name": "GOLD",
+        "count": 27
+      },
+      {
+        "id": 63863,
+        "playerId": 16386,
+        "resourceId": 1012342342,
+        "name": "TICKET",
+        "count": 41
+      }
+    ],
+    "items": [
+      {
+        "id": 1277203,
+        "playerId": 16386,
+        "resourceId": 869657643,
+        "count": 8,
+        "level": 19
+      },
+      {
+        "id": 1277205,
+        "playerId": 16386,
+        "resourceId": 1230985215,
+        "count": 27,
+        "level": 16
+      },
+      {
+        "id": 1277201,
+        "playerId": 16386,
+        "resourceId": 469875784,
+        "count": 1,
+        "level": 19
+      },
+      {
+        "id": 1277207,
+        "playerId": 16386,
+        "resourceId": 466778646,
+        "count": 64,
+        "level": 4
+      },
+      {
+        "id": 1277209,
+        "playerId": 16386,
+        "resourceId": 956894673,
+        "count": 125,
+        "level": 57
+      }
+    ]
+  }
+]
