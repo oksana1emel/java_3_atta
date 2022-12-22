@@ -1,6 +1,9 @@
 package com.company.Jetty;
 
+import com.company.Servlet.CurrencyServlet;
+import com.company.Servlet.ItemServlet;
 import com.company.Servlet.PlayerServlet;
+import com.company.Servlet.ProgressServlet;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.HttpConfiguration;
 import org.eclipse.jetty.server.HttpConnectionFactory;
@@ -26,9 +29,9 @@ public class Server {
         ServletContextHandler context = new ServletContextHandler(ServletContextHandler.NO_SESSIONS);
         context.setContextPath("/");
         context.addServlet(new ServletHolder("players", new PlayerServlet()), "/players/*");
-        context.addServlet(new ServletHolder("items", new PlayerServlet()), "/items/*");
-        context.addServlet(new ServletHolder("currencies", new PlayerServlet()), "/currencies/*");
-        context.addServlet(new ServletHolder("progresses", new PlayerServlet()), "/progresses/*");
+        context.addServlet(new ServletHolder("items", new ItemServlet()), "/items/*");
+        context.addServlet(new ServletHolder("currencies", new CurrencyServlet()), "/currencies/*");
+        context.addServlet(new ServletHolder("progresses", new ProgressServlet()), "/progresses/*");
         server.setHandler(context);
         server.start();
     }
